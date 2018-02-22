@@ -1,2 +1,2 @@
-# docker-practica-madm
+# Práctica Docker - MADM
 Práctica de Docker - MADM
